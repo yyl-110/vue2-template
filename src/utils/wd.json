@@ -1,0 +1,28 @@
+[{
+  "MeterName": "AR温度",
+  "Value": 23.1
+}, {
+  "MeterName": "AR湿度",
+  "Value": 0.55
+}, {
+  "MeterName": "上夹温度",
+  "Value": 23.1
+}, {
+  "MeterName": "上夹湿度",
+  "Value": 0.55
+}, {
+  "MeterName": "室外温度",
+  "Value": 25.6
+}, {
+  "MeterName": "室外湿度",
+  "Value": 0.60
+}, {
+  "MeterName": "气压1",
+  "Value": 40.0
+}, {
+  "MeterName": "气压2",
+  "Value": 40.0
+}, {
+  "MeterName": "气压4",
+  "Value": 40.0
+}]

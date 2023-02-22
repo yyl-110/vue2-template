@@ -1,0 +1,2163 @@
+[{
+    "MachineNo": "CHC #1-1",
+    "WIP": 100,
+    "Coating": "F14",
+    "Clamp1": "11",
+    "Clamp2": "21",
+    "runing": false,
+    "TankData": [{
+        "TankNo": "01",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "02",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "03",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "04",
+        "IsError": false,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          },
+          {
+            "MeterName": "液位",
+            "MeterValuse": "0%"
+          }
+        ]
+      },
+      {
+        "TankNo": "05",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "06",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "07",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "08",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "09",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "10",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "11",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "12",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "13",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "14",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "15",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "16",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "17",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "18",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "19",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "20",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "21",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "22",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "23",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "24",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "25",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "26",
+        "IsError": false,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "27",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "28",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "29",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "30",
+        "IsError": true,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "MachineNo": "CHC #1-2",
+    "WIP": 100,
+    "Coating": "F14",
+    "Clamp1": "11",
+    "Clamp2": "30",
+    "runing": true,
+    "TankData": [{
+        "TankNo": "01",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "02",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "03",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "04",
+        "IsError": false,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          },
+          {
+            "MeterName": "液位",
+            "MeterValuse": "0%"
+          }
+        ]
+      },
+      {
+        "TankNo": "05",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "06",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "07",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "08",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "09",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "10",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "11",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "12",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "13",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "14",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "15",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "16",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "17",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "18",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "19",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "20",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "21",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "22",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "23",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "24",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "25",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "26",
+        "IsError": false,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "27",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "28",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "29",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "30",
+        "IsError": true,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      }
+    ]
+  }, {
+    "MachineNo": "CHC #1-2",
+    "WIP": 100,
+    "Coating": "F14",
+    "Clamp1": "11",
+    "Clamp2": "30",
+    "runing": true,
+    "TankData": [{
+        "TankNo": "01",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "02",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "03",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "04",
+        "IsError": false,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          },
+          {
+            "MeterName": "液位",
+            "MeterValuse": "0%"
+          }
+        ]
+      },
+      {
+        "TankNo": "05",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "06",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "07",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "08",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "09",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "10",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "11",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "12",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "13",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "14",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "15",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "16",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "17",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "18",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "19",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "20",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "21",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "22",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "23",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "24",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "25",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "26",
+        "IsError": false,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "27",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "28",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "29",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "30",
+        "IsError": true,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      }
+    ]
+  }, {
+    "MachineNo": "CHC #1-2",
+    "WIP": 100,
+    "Coating": "F14",
+    "Clamp1": "11",
+    "Clamp2": "30",
+    "runing": true,
+    "TankData": [{
+        "TankNo": "01",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "02",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "03",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "04",
+        "IsError": false,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          },
+          {
+            "MeterName": "液位",
+            "MeterValuse": "0%"
+          }
+        ]
+      },
+      {
+        "TankNo": "05",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "06",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "07",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "08",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "09",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "10",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "11",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "12",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "13",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "14",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "15",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "16",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "17",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "18",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "19",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "20",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "21",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "22",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "23",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "24",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "25",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "26",
+        "IsError": false,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "27",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "28",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "29",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "30",
+        "IsError": true,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      }
+    ]
+  }, {
+    "MachineNo": "CHC #1-2",
+    "WIP": 100,
+    "Coating": "F14",
+    "Clamp1": "11",
+    "Clamp2": "30",
+    "runing": true,
+    "TankData": [{
+        "TankNo": "01",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "02",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "03",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "04",
+        "IsError": false,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          },
+          {
+            "MeterName": "液位",
+            "MeterValuse": "0%"
+          }
+        ]
+      },
+      {
+        "TankNo": "05",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "06",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "07",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "08",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "09",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "10",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "11",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "12",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "13",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "14",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "15",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "16",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "17",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "18",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "19",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "20",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "21",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "22",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "23",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "24",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "25",
+        "IsError": true,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "26",
+        "IsError": false,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "27",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "28",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "29",
+        "IsError": false,
+        "LensIn": false,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      },
+      {
+        "TankNo": "30",
+        "IsError": true,
+        "LensIn": true,
+        "MeterData": [{
+            "MeterName": "温度",
+            "MeterValue": "30℃"
+          },
+          {
+            "MeterName": "密度",
+            "MeterValue": "1.08g/m³"
+          }
+        ]
+      }
+    ]
+  }
+]
